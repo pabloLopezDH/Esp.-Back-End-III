@@ -1,2 +1,2 @@
 # Esp.-Back-End-III
-Clase de Especialización Back End III CTD
+Ejercicios de las clases de Especialización Back End III CTD con GO.
